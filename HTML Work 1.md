@@ -25,8 +25,13 @@
     </tr>
   </table>
   <h1> Things already have</h1>
-  <h3>Checkbox</h3>
-  <input type="checkbox" name="Pootatoes"/>
+    <h3>Checkbox</h3>
+      <input type="checkbox" name="Potatoes"/>Potatoes
+      <input type="checkbox" name="Monkeys"/>
+      <input type="checkbox" name="Orangutan/>
+      <input type="checkbox" name="Dr.Pepper"/>
+      <input type="checkbox" name="Spongebob"/>
+  
 </body>
 </html>
       
