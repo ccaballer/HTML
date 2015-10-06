@@ -22,6 +22,7 @@
       <td>Rifle</td>
       <td>Rocks</td>
       <td>Wood</td>
+    </tr>
 </body>
 </html>
       
