@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>Shopping List</h1>
-    <ol>
+    <ul>
       <li>Granades</li>
       <li>Potatoes</li>
       <li>Scissors</li>
@@ -15,8 +15,8 @@
       <li>Ducktape</li>
       <li>Pickaxe</li>
       <li>Concrete</li>
-    </ol>
+    </ul>
 </body>
-</html?
+</html>
       
 
