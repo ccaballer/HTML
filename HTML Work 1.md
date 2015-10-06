@@ -16,6 +16,12 @@
       <li>Pickaxe</li>
       <li>Concrete</li>
     </ul>
+    <h1>Things not to buy</h1>
+  <table border="1">
+    <tr>
+      <td>Rifle</td>
+      <td>Rocks</td>
+      <td>Wood</td>
 </body>
 </html>
       
