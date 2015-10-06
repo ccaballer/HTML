@@ -5,23 +5,23 @@
   <meta charset="UTF-8">
   <title> HTML GitHub</title>
 </head>
-<body>
-  <h1>Shopping List</h1>
+<body border="1" bgcolor="black">
+  <h1><font color="#0066FF">Shopping List</h1>
     <ul>
-      <li>Granades</li>
-      <li>Potatoes</li>
-      <li>Scissors</li>
-      <li>Plastic bags</li>
-      <li>Ducktape</li>
-      <li>Pickaxe</li>
-      <li>Concrete</li>
+      <li><font color="#0066FF">Granades</li>
+      <li><font color="#0066FF">Potatoes</li>
+      <li><font color="#0066FF">Scissors</li>
+      <li><font color="#0066FF">Plastic bags</li>
+      <li><font color="#0066FF">Ducktape</li>
+      <li><font color="#0066FF">Pickaxe</li>
+      <li><font color="#0066FF">Concrete</li>
     </ul>
-    <h1>Things not to buy</h1>
+    <h1><font color="#0066FF">Things not to buy</h1>
   <table border="1">
     <tr>
-      <td>Rifle</td>
-      <td>Rocks</td>
-      <td>Wood</td>
+      <td><font color="#0066FF">Rifle</td>
+      <td><font color="#0066FF">Rocks</td>
+      <td><font color="#0066FF">Wood</td>
     </tr>
 </body>
 </html>
