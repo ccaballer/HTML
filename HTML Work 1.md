@@ -23,6 +23,10 @@
       <td><font color="#0066FF">Rocks</td>
       <td><font color="#0066FF">Wood</td>
     </tr>
+  </table>
+  <h1> Things already have</h1>
+  <h3>Checkbox</h3>
+  <input type="checkbox" name="Pootatoes"/>
 </body>
 </html>
       
